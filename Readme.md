@@ -24,7 +24,6 @@ Global Superstore Dataset
 
 ## Analysis Questions
 
-1. What are the total sales and profit?
 1. Basic Cusiness KPIs
     a. Total sales and profit?
     b. Total orders and total customers
