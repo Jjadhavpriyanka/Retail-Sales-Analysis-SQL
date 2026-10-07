@@ -38,30 +38,55 @@ ERD Diagram
 ## Analysis Questions
 
 1. Executive KPIs
+   
     a. Total sales and profit?
+   
     b. Profit Margin %
+   
     c. Total orders and total customers
+   
     d. Average Order Value
+   
 2. Sales Vs Profit Analysis
+   
     a. Sales by Category
+   
     b. Profit by Category
+   
     c. Profit Margin by Category
+   
     d. Sales by Sub-Category
+   
     e. Profit by Sub-Category
+   
     f. Profit Margin by Sub-Category
+   
 3. Product Analysis
+   
     a. Top loss-making products for Tables sub-Category
+   
     b. Top profitable products for Tables sub-Category
+   
 4. Discount Analysis
+   
     a. Total sales and Profit margin of discounted Table products VS non-discounted Tables
+   
     b. Product metrics for Tables subcategory for non discounted products showing losses
+   
     c. Product metrics for Tables subcategory for non discounted products showing profit
+   
     d. Product metrics for Tables category for discounted products showing losses
+   
     e. Product metrics for Tables category for discounted products showing profit
+   
 5. Customer Analysis
+   
     a. Customers generating the largest losses in Tables
+   
 6. Geographic Analysis
+   
     a. Markets generating largest Table losses
+   
 
 ## Key Findings
 1. Technology and furniture both has high sales but in terms of profit furniture 
