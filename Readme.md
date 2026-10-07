@@ -26,7 +26,7 @@ This project analyses a global retail sales dataset using SQL. The dataset was d
 
 ## Data Model
 ERD Diagram
-![Image](Global SuperStore Sales.drawio)
+![ERD Diagram](Global SuperStore Sales.drawio.png)
 
 ## Analysis Questions
 
