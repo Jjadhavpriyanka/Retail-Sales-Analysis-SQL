@@ -29,7 +29,6 @@ ERD Diagram
 
 
 ![ERD Diagram](https://github.com/Jjadhavpriyanka/Retail-Sales-Analysis-SQL/blob/main/Global%20SuperStore%20Sales.drawio.png)
-![ERD Diagram](Global SuperStore Sales.drawio.png)
 
 ## Analysis Process
 - Data cleaning
