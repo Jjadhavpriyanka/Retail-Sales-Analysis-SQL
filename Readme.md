@@ -1,9 +1,11 @@
 # Retail Sales Analysis Using SQL
 
 ## Project Overview
+### Business Problem
+Profitability Improvement
 
-This project analyses a global retail sales dataset using SQL. The dataset was downloaded from Kaggle. 
-
+### Problem Statement
+Despite generating strong global sales, management wants to understand why profitability varies across products, customers, and regions and identify opportunities to improve profit growth.
 
 The objective is to identify:
 
@@ -16,46 +18,46 @@ The objective is to identify:
 ## Tools Used
  
 - SQL (MySQL)
+- MySQL Workbench
 - GitHub
 
 ## Dataset
+This project analyses a global retail sales dataset using SQL. The dataset was downloaded from Kaggle. Global Superstore Dataset
 
-Global Superstore Dataset
+## Data Model
+ERD Diagram
+![Image](/Users/Tippie/Desktop/Projects/Retail-Sales-Analysis-SQL/Retail-Sales-Analysis-SQL/Global SuperStore Sales.drawio.svg)
 
 ## Analysis Questions
 
-1. Basic Cusiness KPIs
+1. Executive KPIs
     a. Total sales and profit?
-    b. Total orders and total customers
-    c. Average Order Value
-2. Sales Performance
-    a. Sales by year
-    b. Sales by month
-    c. Top 10 sales weeks
-    d. Sales by market
-    e. Sales by region
-    f. Rank products by sales
-3. Product Analysis
-    a. Top 10 products by sales
-    b. Top 10 products by profit
-    c. Bottom 10 products by profit
-    d. Sales by category
-    e. Profit by category
-    f. Profit margin by category
-4. Customer Analysis
-    a. Top 10 customers by sales
-    b. Top 10 customers by profit
-    c. Customers with most orders
-    d. Sales by segment (consumer, corporate, home office)
-4. Geographic Analysis
-    a. Top countries by Sales
-    b. Top States by Profit
-    c. Top cities by sales
+    b. Profit Margin %
+    c. Total orders and total customers
+    d. Average Order Value
+2. Sales Vs Profit Analysis
+    a. Sales by Category
+    b. Profit by Category
+    c. Profit Margin by Category
+    d. Sales by Sub-Category
+    e. Profit by Sub-Category
+3. Product Profitability
+    a. Top 10 products by profit
+    b. Products generating losses
+    c. High sales but low profit products
+    d. Most discounted products
+    e. Discount Vs Profit Analysis
+4. Customer Profitability
+    a. Top 10 customers by profit
+    b. Profit by segment
+    c. Average profit per Customer
+5. Geographic Profitability
+    a. Profit by market
+    b. Profit by region
+    c. Profit by country
     d. Regions with negative profit
-5. Operational Analysis
-    a. Average shipping time
-    b. Profit by ship mode
-    c. Sales by order priority
-    d. Does faster shipping increase profit?
-6. What are the sales trends over time?
+
+## Key Findings
+
+## Business Recommendations
 
