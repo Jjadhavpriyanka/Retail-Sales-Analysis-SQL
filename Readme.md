@@ -34,6 +34,7 @@ ERD Diagram
 - Data cleaning
 - Normalisation
 - SQL Analysis
+- Power BI visualisation
 
 ## Analysis Questions
 
