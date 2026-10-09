@@ -28,7 +28,6 @@ This project analyses a global retail sales dataset using SQL. The dataset was d
 ERD Diagram
 
 
-![ERD Diagram](https://github.com/Jjadhavpriyanka/Retail-Sales-Analysis-SQL/edit/main/Readme.md#:~:text=ERD%2DGlobal-,SuperStore,-Sales.drawio.png)
 
 ## Analysis Process
 - Data cleaning
