@@ -28,12 +28,13 @@ This project analyses a global retail sales dataset using SQL. The dataset was d
 ERD Diagram
 
 
-![ERD Diagram](screenshots/ERD /ERD-Global SuperStore Sales.drawio.png)
+![SuperStore](https://github.com/Jjadhavpriyanka/Retail-Sales-Analysis-SQL/blob/main/screenshots/ERD%20/ERD-Global%20SuperStore%20Sales.drawio.png)
 
 ## Analysis Process
 - Data cleaning
 - Normalisation
 - SQL Analysis
+- Power BI visualisation
 
 ## Analysis Questions
 
@@ -89,27 +90,34 @@ ERD Diagram
    
 
 ## Key Findings
-1. Technology and furniture both has high sales but in terms of profit furniture 
-shows some problem.
+1. Global Superstore generated $12.64M in sales and $1.47M in profit, achieving an overall profit margin of 11.61%.
+The business is profitable and financially stable.
 
-2. Phones generated  highest sales ($1.88M) in technology category with profit
-of $230K and profit margin 12.44% .
+2. Technology delivered highest sales, profit, and profit margin, making it the strongest performing category in terms 
+of both sales and profit.
 
-3. Table sales are 3rd higher sales ($ 840K) in furniture category but not profiting ($70K loss) 
-with -8.63% Profit margin. This shows why furniture have profit problem.
+3. Phones generated  highest sales ($1.70M) in technology category with profit of $220K and profit margin 12.69%.
 
-4. The Table category had overall profit margin of -8.63%. The product Level analysis showed that some 
-Table products are highly profitable while others are highly loss-making. This suggests the entire 
-Tables category is not a problem only specific products within the category are. Moreover, 
-non-discounted tables are slightly unprofitable (-0.51%), discounted Tables lose money at a much 
-faster rate (-117.21%). Furthermore, there was no profit on discounted Table subcategory.
+4. Furniture generated substantial sales but produced significantly lower profit margins than Technology and Office 
+Supplies, indicating inefficiencies in profitability rather than demand generation.
 
-5. On further analysis of customer segment, Corporate customers generated the largest losses of $32,455
-and -11.89% profit margin within the table sub-category 
+5. The Tables subcategory was the 3rd higher sales subcategory generating $760K with overall loss of $60K, producing 
+a profit margin of -8.47% and significantly reducing the overall profitability of the Furniture category.
 
-6. The geographical losses are concentrated in APAC regional market specifically in Pakistan and South Korea. 
-These locations generated extremely negative profit margins in some cases exceeding -200%, indicating that
-losses significantly exceeded sales revenue.
+6. On further product analysis it was revealed that losses are driven by a group of specific Table products rather than 
+the entire Tables subcategory. Several products generated strong sales while consistently producing negative profits. 
+The issue might be product specific.
+
+7. Moreover, non-discounted tables products are profitable (0.13%), discounted Tables lose money at a much faster rate 
+(-116.29%) and non-of the Table products produced profit, suggesting that current discounting practices are contributing 
+to losses rather than making profitable growth.
+
+8. Customer analysis, Corporate customers generated the largest losses of $0.22M and -4.41% profit margin with no discount 
+and when discounted all the segments showed losses with consumer being the highest (-120%) within the table sub-category.
+
+9. The geographical losses were concentrated in APAC and EU region specifically in Pakistan and South Korea in APAC and 
+Germany in EU irrespective of discount. These locations generated extremely negative profit margins when givne discount in 
+some cases exceeding -200%, indicating that losses significantly exceeded sales revenue.
 
 ## Business Recommendations
 1. Review persistently loss-making table products and consider repricing, renegotiating supplier costs, or discontinuing
