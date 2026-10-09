@@ -111,7 +111,7 @@ The issue might be product specific.
 (-116.29%) and non-of the Table products produced profit, suggesting that current discounting practices are contributing 
 to losses rather than making profitable growth.
 
-8.Customer analysis, Corporate customers generated the largest losses of $0.22M and -4.41% profit margin with no discount 
+8. Customer analysis, Corporate customers generated the largest losses of $0.22M and -4.41% profit margin with no discount 
 and when discounted all the segments showed losses with consumer being the highest (-120%) within the table sub-category.
 
 9. The geographical losses were concentrated in APAC and EU region specifically in Pakistan and South Korea in APAC and 
