@@ -116,7 +116,7 @@ to losses rather than making profitable growth.
 and when discounted all the segments showed losses with consumer being the highest (-120%) within the table sub-category.
 
 9. The geographical losses were concentrated in APAC and EU region specifically in Pakistan and South Korea in APAC and 
-Germany in EU irrespective of discount. These locations generated extremely negative profit margins when givne discount in 
+Germany in EU irrespective of discount. These locations generated extremely negative profit margins when given discount in 
 some cases exceeding -200%, indicating that losses significantly exceeded sales revenue.
 
 ## Business Recommendations
@@ -129,8 +129,7 @@ that non-discounted sales and should be carefully evaluated before approval.
 3. Review corporate customer pricing and promotional agreements to identify opportunities to improve
 profitability within the highest-loss customer segment.
 
-4. Increase investment in high-performing categories and sub-categories such as Technology, Phones, Accessories, Paper, and Labels that consistently 
-generate strong profit margins.
+4. Increase investment in high-performing categories and sub-categories such as Technology, Phones, Accessories, Paper, and Labels that consistently generate strong profit margins.
 
 5. Conduct detailed regional reviews in high-loss areas to understand whether pricing, logistics, discounts, or local
 market conditions are contributing to weak profitability.
